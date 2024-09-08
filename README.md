@@ -18,7 +18,7 @@
 
 
 <p> Motherboard - This is the main circuit board in the computer and one of the most important components inside the PC as it controls everyhting and without it the computer wouldnt be able to even turn on. You need to make sure any components you buy are compatible with this motherboard as each motherboard supports different CPUs and different DDR RAM sticks. </p>
-<img src="https://i.imgur.com/ev9SN3Q.jpeg" height="80%" width="100%"/>
+<img src="https://i.imgur.com/ev9SN3Q.jpeg" height="60%" width="100%"/>
 
 
 <p> RAM - This is the PC memory </p>
