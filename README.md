@@ -49,15 +49,15 @@ This is a type of computer memory that is used to store fata and programs that a
 <p> If everything is working properly, the system will power on and the CPU cooler fan will spin. Let it run for about 5 minutes to make sure there are no overheating issues from improper cooler installation. If you reach this point, congratulations—your main components are functioning properly! </p>
 <img src="https://i.imgur.com/qKof2dl.jpeg" height="60%" width="100%"/>
 
-<h2> Placing motherboard in case </h2>
+<h2> Placing Motherboard In Case </h2>
 <p> Before placing the motherboard in the case, please make sure case standoff screws are placed the correct position. The screws should align with the mounting holes on your motherboard and this provides proper support </p>
 <p>  If your motherboard doesn't have a built-in I/O shield, you'll need to attach the I/O shield to the case. This can be a bit fidgety/tricky—just make sure it clicks into place on both sides from inside the case and that’s done.  </p>
 <p> Once the motherboard is placed in, gently screw down each hole through the mounting holes in the case until all are done. </p>
 <img src="https://i.imgur.com/vERBYYo.jpeg" height="60%" width="100%"/>
 
-<h2> Case Wires & Cable Management </h2>
+<h2> Case Wires </h2>
 <p> For clean cable management, I recommend to run the case cables along the backside of the case. Next, connect the case's front panel connectors (Power SW, HDD LED, Power LED +/-, and Reset SW) to the correct pins on the motherboard. These connections are usually located on the bottom-right side of the motherboard, but the exact positioning and pin layout can vary depending on your model, please check your motherboard manual for the correct way for the motherboard you are using. </p>
-<img src="https://i.imgur.com/YLLFHt3.png" height="60%" width="100%"/>
+<img src="https://i.imgur.com/zCc25hs.jpeg" height="60%" width="100%"/>
 
 
 <h2> Cable Management, Attach Cables to Motherboard </h2>
@@ -71,11 +71,11 @@ Place any drives into the drive bays in the case and secure them with screws. Co
 <img src="https://i.imgur.com/YLLFHt3.png" height="60%" width="100%"/>
 
 <h2> Graphics Card / Wireless Network Card </h2>
-If you have a graphics card or a wireless network card, these are the final component to install. Plug the graphics card into the PCIe x16 slot on the motherboard, if you are wanting to install a wireless network card that goes into the PCI slot just underneath the graphics card slot. Remove the appropriate PCIe slot covers from the case, then insert the GPU, wireless network card until you hear it click into place. Secure the card by screwing it down on the left side where you removed the PCIe covers. Finally, connect the PCIe power supply cables to the graphics card. </p>
+If you have a graphics card or a wireless network card, these are the final components to install. Plug the graphics card into the PCIe x16 slot on the motherboard, if you are wanting to install a wireless network card that goes into the PCI slot just underneath the graphics card slot. Remove the appropriate PCIe slot covers from the case, then insert the GPU, wireless network card until you hear it click into place. Secure the card by screwing it down on the left side where you removed the PCIe covers. Finally, connect the PCIe power supply cables to the graphics card. </p>
 <img src="https://i.imgur.com/fgGlXd6.jpeg" height="60%" width="100%"/>
 
 <h2> Last Steps </h2>
 <p> Screw in the side panel of the case and that’s all done, power on the system :) </p>
-<p> Once you have slotted the side panel, turn on the system and if everything is going fine it will go into BIOS and all of the fans/case fans and lights inside of the desktop will be spinning/on and you are ready to install your operating system! </p>
+<p> if everything is going fine it will go into BIOS, and all of the fans and lights inside of the desktop will turn on and start spinning then you are ready to install your operating system! </p>
 <img src="https://i.imgur.com/tdriETJ.jpeg" height="60%" width="100%"/>
 
