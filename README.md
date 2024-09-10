@@ -43,11 +43,11 @@ This is a type of computer memory that is used to store fata and programs that a
 <img src="https://i.imgur.com/Py5RCNS.jpeg" height="60%" width="100%"/>
 
 
-<h2> *Quick tip: </h2>
+<h2> *Quick tip*: </h2>
 <p> Before placing anything inside the case, it’s a good idea to test the components to ensure everything is working properly, which saves the hassle of reassembling later. </p>
 <p> To do this, connect the power supply plug to a wall, then attach the 24-pin connector to the motherboard and the 6/8-pin CPU connector to the motherboard. The CPU and RAM are already slotted in the motherboard, you can also slot in the graphics card if you are planning to add one into this system. To power on the system, gently touch the two power switch header pins on the motherboard with a metal screwdriver. </p>
 <p> If everything is working properly, the system will power on and the CPU cooler fan will spin. Let it run for about 5 minutes to make sure there are no overheating issues from improper cooler installation. If you reach this point, congratulations—your main components are functioning properly! </p>
-<img src="https://i.imgur.com/2Lq2zsG.jpeg" height="60%" width="100%"/>
+<img src="https://i.imgur.com/qKof2dl.jpeg" height="60%" width="100%"/>
 
 <h2> Placing motherboard in case </h2>
 <p> Before placing the motherboard in the case, please make sure case standoff screws are placed the correct position. The screws should align with the mounting holes on your motherboard and this provides proper support </p>
@@ -57,25 +57,25 @@ This is a type of computer memory that is used to store fata and programs that a
 
 <h2> Case Wires & Cable Management </h2>
 <p> For clean cable management, I recommend to run the case cables along the backside of the case. Next, connect the case's front panel connectors (Power SW, HDD LED, Power LED +/-, and Reset SW) to the correct pins on the motherboard. These connections are usually located on the bottom-right side of the motherboard, but the exact positioning and pin layout can vary depending on your model, please check your motherboard manual for the correct way for the motherboard you are using. </p>
-<img src="https://imgur.com/a/ergLZXK" height="60%" width="100%"/>
+<img src="https://i.imgur.com/YLLFHt3.png" height="60%" width="100%"/>
 
 
-<h2> Power Supply, Cable Management, Attach Cables to Motherboard </h2>
+<h2> Cable Management, Attach Cables to Motherboard </h2>
 <p> Once the power supply is secured with screws, ensure good cable management by again, running the case wires along the back side of the case. Keep the cables bundled together to prevent clutter and I highly recommend using cable ties as this will make it so much easier for clean cable management. </p>
 <p> Plug in the 24-pin motherboard connector and the 6- or 8-pin CPU connector into their respective ports on the motherboard. Save the PCIe cables for now, as you’ll need them later for connecting drives and the graphics card. </p>
-<img src="https://i.imgur.com/bVy1IOs.jpeg" height="60%" width="100%"/>
+<img src="https://i.imgur.com/gldmIk1.jpeg" height="60%" width="100%"/>
 
 <h2> M.2 / HDD / SSD drives </h2>
 Place any drives into the drive bays in the case and secure them with screws. Connect the SATA cables from the SSD/HDD to the SATA ports on the motherboard, and plug the power cables from the power supply into the drives. </p>
 <p> If you have a modern M.2 SSD, installation is even simpler. Just insert the SSD into the M.2 slot on the motherboard and secure it with a single screw. </p>
-<img src="https://imgur.com/a/hmkiyy0" height="60%" width="100%"/>
+<img src="https://i.imgur.com/YLLFHt3.png" height="60%" width="100%"/>
 
 <h2> Graphics Card / Wireless Network Card </h2>
 If you have a graphics card or a wireless network card, these are the final component to install. Plug the graphics card into the PCIe x16 slot on the motherboard, if you are wanting to install a wireless network card that goes into the PCI slot just underneath the graphics card slot. Remove the appropriate PCIe slot covers from the case, then insert the GPU, wireless network card until you hear it click into place. Secure the card by screwing it down on the left side where you removed the PCIe covers. Finally, connect the PCIe power supply cables to the graphics card. </p>
 <img src="https://i.imgur.com/fgGlXd6.jpeg" height="60%" width="100%"/>
 
-<h2> Almost done </h2>
+<h2> Last Steps </h2>
 <p> Screw in the side panel of the case and that’s all done, power on the system :) </p>
 <p> Once you have slotted the side panel, turn on the system and if everything is going fine it will go into BIOS and all of the fans/case fans and lights inside of the desktop will be spinning/on and you are ready to install your operating system! </p>
-<img src="https://i.imgur.com/bVy1IOs.jpeg" height="60%" width="100%"/>
+<img src="https://i.imgur.com/tdriETJ.jpeg" height="60%" width="100%"/>
 
