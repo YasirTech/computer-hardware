@@ -1,6 +1,6 @@
 # Computer-Hardware 
 
-<h2> A complete guide by me on how to build a desktop computer system, including pictures of me building or upgrading my clients' orders </h2>
+<h2> A complete guide by me on how to build a desktop computer system from scratch, including pictures of me building, upgrading or repairing my clients' orders </h2>
 
 <h2>Computer Hardware Components Installed / Upgraded </h2>
 
